@@ -1,1 +1,1 @@
-# base-app
+# Base Authentication and Authorization application
